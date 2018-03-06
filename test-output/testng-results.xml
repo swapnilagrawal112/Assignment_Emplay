@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41799" started-at="2018-03-05T17:20:08Z" finished-at="2018-03-05T17:20:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41799" started-at="2018-03-05T17:20:08Z" finished-at="2018-03-05T17:20:50Z">
+      <class name="amazon.SearchPenDrive">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:amazon.SearchPenDrive@1b604f19]" name="launchBrowser" is-config="true" duration-ms="15415" started-at="2018-03-05T22:50:08Z" finished-at="2018-03-05T22:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:amazon.SearchPenDrive@1b604f19]" name="searchProduct" duration-ms="26304" started-at="2018-03-05T22:50:23Z" finished-at="2018-03-05T22:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:amazon.SearchPenDrive@1b604f19]" name="closeBrowser" is-config="true" duration-ms="64" started-at="2018-03-05T22:50:50Z" finished-at="2018-03-05T22:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- amazon.SearchPenDrive -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

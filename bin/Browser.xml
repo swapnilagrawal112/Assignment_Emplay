@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Assignment_Emplay" parallel="false">
+  <test name="searchPendriver">
+    <classes>
+      <class name="amazon.SearchPenDrive"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
